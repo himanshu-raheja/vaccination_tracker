@@ -1,0 +1,22 @@
+{
+  "name": "vaccination_tracker",
+  "version": "1.0.0",
+  "description": "Track vaccine's availbility.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshu-raheja/vaccination_tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanshu-raheja/vaccination_tracker/issues"
+  },
+  "homepage": "https://github.com/himanshu-raheja/vaccination_tracker#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
